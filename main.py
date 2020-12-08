@@ -1,8 +1,10 @@
-import PyPDF2
-from nltk.tokenize import word_tokenize
-from nltk.corpus import stopwords
-from nltk import FreqDist
+# Libraries
 import csv
+
+import PyPDF2
+from nltk import FreqDist
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
 
 # Write a for-loop to open many files (leave a comment if you'd like to learn how).
 filename = 'test.pdf'
