@@ -1,6 +1,5 @@
 # Libraries
 import csv
-
 import PyPDF2
 from nltk import FreqDist
 from nltk.corpus import stopwords
