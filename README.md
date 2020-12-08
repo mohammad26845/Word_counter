@@ -40,3 +40,8 @@ To change the number of output words, you must modify the variable `count_word`:
 ```python
 count_word = 30
 ```
+
+
+## TODO List
+- [x] Create a CSV file
+- [ ] Create a Wordclouds
