@@ -7,6 +7,9 @@ import csv
 # Write a for-loop to open many files (leave a comment if you'd like to learn how).
 filename = 'test.pdf'
 
+# Count of output file
+count_word = 30
+
 # open allows you to read the file.
 pdfFileObj = open(filename, 'rb')
 
@@ -52,9 +55,9 @@ for word in keywords:
 with open('out.csv', 'w', newline='') as file:
     writer = csv.writer(file)
     writer.writerow(["word", "weight"])
-    writer.writerows(f_dist.most_common(20))
+    writer.writerows(f_dist.most_common(count_word))
 
 # Print all of data
-print(f_dist.most_common(20))
+print(f_dist.most_common(count_word))
 
 
