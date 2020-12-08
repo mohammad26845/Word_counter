@@ -4,11 +4,11 @@ A program for counting the number of words(word tokenize) in PDF files.
 
 **It should be noted that this program does not detect scanned files.**
 
-##Installation
-You must have the following libraries installed before running:
-+ PyPDF2
-+ nltk
+## How to run
+To run this file; Just use steps below:
 
++ Install `python3`, `pip`, `PyPDF2`, `nltk`.
++ Clone the project <a href='https://github.com/mohammad26845/Word_counter.git'>Word_counter</a>
 
 ## Table Of Contents
 - [NLTK library to identify stopwords](/corpora)
