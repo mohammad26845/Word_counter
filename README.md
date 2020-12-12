@@ -1,7 +1,11 @@
 # Word counter PDF files
 
+
 ![pyversion](https://img.shields.io/pypi/pyversions/nltk?style=plastic)
 ![commits-since](https://img.shields.io/github/commits-since/mohammad26845/Word_counter/V1.0?style=plastic)
+![release](https://img.shields.io/github/v/release/mohammad26845/Word_counter?style=plastic)
+![last-commit](https://img.shields.io/github/last-commit/mohammad26845/Word_counter?style=plastic)
+
 ---
 
 
