@@ -1,4 +1,9 @@
 # Word counter PDF files
+---
+![commits-since](https://img.shields.io/pypi/pyversions/nltk?style=plastic)
+![commits-since](https://img.shields.io/github/commits-since/mohammad26845/Word_counter/V1.0?style=plastic)
+
+
 
 A program for counting the number of words(word tokenize) in PDF files.
 
